@@ -41,3 +41,4 @@ And I click on "go to checkout" button
 And I click on "remove" button
 Then I verify that the "message" is "Oops, there is nothing in your cart."
 
+

@@ -52,7 +52,7 @@ public class CommonStepDef {
 	    action.moveToElement(webElement).perform(); //moves focus on the element
 	    Thread.sleep(10000);
 	}
-	
+
 	@And("^I am on the \"(.*?)\" page$")
 	public void i_am_on_the_page(String pagevalue) throws Throwable {
 	    pagename = pagevalue.replaceAll(" ", "") + "Page";
