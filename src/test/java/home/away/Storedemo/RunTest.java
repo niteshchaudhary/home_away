@@ -9,5 +9,5 @@ import cucumber.api.junit.Cucumber;
 		"junit:target/cucumber-junit-report/allcukes.xml"}, features = { "C:\\Users\\Nitesh\\Documents\\maven\\HomeAway\\Storedemo\\src\\test\\resources\\feature\\demostore.feature" } )
 @RunWith(Cucumber.class)
 public class RunTest{
-	
+
 }

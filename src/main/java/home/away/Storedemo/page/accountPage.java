@@ -50,6 +50,5 @@ public class accountPage {
 	
 	@FindBy(how = How.XPATH, using = ".//*[@id='post-29']/div")
  	public static WebElement message;
-	
-	
+
 }

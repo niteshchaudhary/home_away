@@ -95,7 +95,6 @@ public class CommonStepDef {
 		
 	}
 
-	
 
 	@Then("^I verify that the \"(.*?)\" is \"(.*?)\"$")
 	public void i_verify_that_the_label(String element, String value) throws Throwable {

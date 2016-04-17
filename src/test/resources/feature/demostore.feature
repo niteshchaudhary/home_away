@@ -15,7 +15,6 @@ And I click on "Continue" button
 And I click on "purchase" button
 Then I verify that the "text" is "Transaction Results"
 
-
 @test
 Scenario: Verify updating account details
 Given I log in to the application
